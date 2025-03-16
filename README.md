@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 Im Aleksey</h1>
-<p align="center">19 y/o student, wannabe backend/devops developer</p>
+<p align="center">19 y/o student, wannabe backend/devops engineer</p>
 
 <p align="center">
 <img src="https://badges.pufler.dev/repos/sowwds"/>
