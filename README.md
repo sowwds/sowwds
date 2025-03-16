@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Im Aleksey
+<p align="center">
+<img src="https://badges.pufler.dev/repos/sowwds"/>
+<img src="https://badges.pufler.dev/commits/monthly/sowwds"/>
 
+</p>
 <!--
 **sowwds/sowwds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
