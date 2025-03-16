@@ -10,7 +10,7 @@
 - <img src="https://www.iu3.bmstu.ru/Content/img/Logo_White_No-BG.png" width=20/> 2023-2025 BMSTU CS-3 Information Systems and Telecommunications
 - <img src="https://priem.mirea.ru/images/template/new_logo.svg" width=20/> 2025- MIREA IATIP FullStack Development
 - Yandex Lyceum course
-- Yandex Intesives course of django backend development
+- Yandex Intensives course of django backend development
 
 <h2 align="center">💻Technology stack</h2>
 <ul>
